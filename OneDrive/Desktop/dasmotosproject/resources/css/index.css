@@ -1,0 +1,37 @@
+* {
+    font-family: Helvetica;
+  } 
+h1 {
+    color: khaki;
+    font-size: 100px;
+    font-weight: bold;
+  }
+  .header-container {
+    display: flex;
+    background-image: url("../img/pattern.png");
+    width: 100vw;
+    flex-wrap: wrap;
+    margin-bottom: 40px;
+    justify-content: center;
+}  
+h2 {
+    font-size: 32px;
+    color: white;
+    font-weight: bold;
+}   
+.brush-header{
+        background-color: mediumspringgreen;
+ }
+    
+.frames-header{
+        background-color: lightcoral;
+ }
+    
+.paint-header{
+        background-color: skyblue;
+ }
+    
+b{
+    color: blue;
+    font-weight: bold;
+ }
